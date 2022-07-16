@@ -14,9 +14,9 @@ public Plugin myinfo =
 {
 	name = "Auto Addding ZM Map",
 	author = "Oylsister",
-	description = "Auto nomination ZM map",
+	description = "Auto Nominate ZM Map if server has players less than specific number.",
 	version = "1.0",
-	url = ""
+	url = "https://github.com/EnemyDowns-net/Auto-ZM"
 }
 
 public void OnPluginStart()
